@@ -26,7 +26,7 @@ node server.js
 
 Sunucu http://localhost:3000 adresinde çalışacaktır.
 
-# Windows için kısa kullanım:
+# Windows için hızlı kurulum:
 1) [Node.js resmi sitesinden indirin](https://nodejs.org/)
 
 
