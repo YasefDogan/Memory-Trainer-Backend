@@ -1,27 +1,27 @@
-Hızlı Kurulum:
-# Backend'i klonlayın
+# Hızlı Kurulum: (Linux için)
+1)Backend'i klonlayın
 git clone https://github.com/yourusername/memory-scanner-backend.git
 cd memory-scanner-backend
 
-# Node.js'i indirin ve kurun (Linux için)
+2) Node.js'i indirin ve kurun
 sudo apt update
 sudo apt install nodejs -y
 
-# Node.js versiyonunu kontrol edin
+3) Node.js versiyonunu kontrol edin
 node -v
 
-# Sunucuyu başlatın
+4) Sunucuyu başlatın
 node server.js
 
 
 Sunucu http://localhost:3000 adresinde çalışacaktır.
 
-🪟 Windows için kısa kullanım:
-# [Node.js resmi sitesinden indirin](https://nodejs.org/)
+# Windows için kısa kullanım:
+1) [Node.js resmi sitesinden indirin](https://nodejs.org/)
 
 
-# Kurulumdan sonra projeye girin
+2) Kurulumdan sonra projeye girin
 cd memory-scanner-backend
 
-# Sunucuyu başlatın
+3) Sunucuyu başlatın
 node server.js
