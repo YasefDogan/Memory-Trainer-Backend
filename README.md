@@ -1,7 +1,7 @@
 # Hızlı Kurulum: (Linux için)
 1)Backend'i klonlayın
 ```bash
-git clone https://github.com/yourusername/memory-scanner-backend.git
+git clone https://github.com/YasefDogan/Memory-Trainer-Backend
 ```
 ```bash
 cd memory-scanner-backend
